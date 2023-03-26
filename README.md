@@ -3,7 +3,7 @@
 
 Programlama dili olarak Java, build tool olarak Maven, dependencies olarak Rest Assured, JUnit, TestNG, raporlama aracı olarak Extent Reports, IDE olarak Intellij kullanıldı. 
 
-Yazılan testlerin class haricinde tek bir yerden çalıştırılabilmesi için PetStore_User_CRUDTest.xml isimli bir dosya oluşturuldu. Bu dosya üzerinde sağ click yapıp run tuşuna basarak çalıştırılabilir. Test koşumu bittikten sonra projemizde oluşan target dosyası içerisinden rapor package'ı içindeki html dosyasına sağ tıklayıp open in -> Browser -> adımlarını takip ederek istediğimiz browser üzerinden teste ait raporları ve ekran görüntülerine ulaşabiliriz.
+Yazılan testlerin class haricinde tek bir yerden çalıştırılabilmesi için petStoreUserApiTest.xml isimli bir dosya oluşturuldu. Bu dosya üzerinde sağ click yapıp run tuşuna basarak çalıştırılabilir. Test koşumu bittikten sonra projemizde oluşan target dosyası içerisinden rapor package'ı içindeki html dosyasına sağ tıklayıp open in -> Browser -> adımlarını takip ederek istediğimiz browser üzerinden teste ait raporları ve ekran görüntülerine ulaşabiliriz.
 
 Test yazılırken OOP Concept kullanıldı, readable, reusable, maintainable kod yazımına dikkat edildi ve mimari açıdan büyümeye hazır bir framework yapısı oluşturuldu.
  
