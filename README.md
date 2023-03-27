@@ -11,6 +11,10 @@ Yanlış bir bağlantı adresi kullanılması durumunda, "localhost 404 Not Foun
 Yapılandırılmayan eksik adımlar da bu hataya sebebiyet verebilir. <br/>
 
 Test yazılırken OOP Concept kullanıldı, readable, reusable, maintainable kod yazımına dikkat edildi ve mimari açıdan büyümeye hazır bir framework yapısı oluşturuldu.
+
+## pom.xml 
+
+Pom sayesinde tüm çalışmalarımızın ve kodlara ait bilgilerin bulunduğu bu dosyada kullanmak istediğimiz kodların kütüphanesini dependencies tagının içerisine yerleştirip güncel bilgileri sürekli olarak kendimizde tutabiliriz. Burası sayesinde tüm kodlara erişimi sağlayabiliriz.
  
 ### CRUDRequests class içerisinde yapılanlar
 
